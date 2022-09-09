@@ -1,0 +1,14 @@
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\bin\Debug\Personel.exe.config
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\bin\Debug\Personel.exe
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\bin\Debug\Personel.pdb
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.csproj.AssemblyReference.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.Properties.Resources.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.csproj.GenerateResource.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.exe
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.pdb
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.FrmAnaForm.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.FrmGrafikler.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.Frmİstatistik.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\Personel\obj\Debug\Personel.FrmGiris.resources
